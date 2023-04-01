@@ -75,7 +75,7 @@ export default function YourInfo() {
           )}
         </div>
         <input
-          type="number"
+          type="phone"
           className={`${
             errors.phone && "border-red-500"
           } hover:border-PurplishBlue `}
